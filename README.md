@@ -16,5 +16,6 @@ included:
 For this project, the front end was provided and the main goal was to write code for the server and the HTML AND API Routes. 
 ## Description
 <img src="Develop/public/assets/images/screenshot.png" alt="screenshot">
-<img src="Develop/public/assets/images/screenshot2.png" alt="screenshot2>
+
+<img src="Develop/public/assets/images/screenshot2.png" alt="screenshot2">
 
