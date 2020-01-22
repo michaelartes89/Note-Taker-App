@@ -3,6 +3,8 @@ This web application allows users to write notes in a clean, user freindly forma
 Users can create a title for thier notes, write down the content, save notes, and delete 
 previously saved notes.
 
+
+
 ## 
 This project was created for unit 11 of the JHU Full-Stack Bootcamp. The material covered in this unit 
 included:
