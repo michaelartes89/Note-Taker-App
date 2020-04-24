@@ -17,6 +17,7 @@ included:
 
 For this project, the front end was provided and the main goal was to write code for the server and the HTML AND API Routes. 
 ## Description
+<a href="https://peaceful-gorge-92743.herokuapp.com/" target="_blank"> Deployed Link </a>
 <img src="Develop/public/assets/images/screenshot.png" alt="screenshot">
 
 <img src="Develop/public/assets/images/screenshot2.png" alt="screenshot2">
